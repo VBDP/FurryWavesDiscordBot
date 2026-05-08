@@ -1,0 +1,23 @@
+{
+  "name": "furrywaves",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@discordjs/voice": "^0.19.2",
+    "@distube/soundcloud": "^2.0.4",
+    "@distube/spotify": "^2.0.2",
+    "discord.js": "^14.26.3",
+    "distube": "^5.2.3",
+    "play-dl": "^1.9.7",
+    "shoukaku": "^4.3.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
